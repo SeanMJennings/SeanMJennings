@@ -25,7 +25,7 @@ Otherwise, I've been known to:
 - Arduino
 - Get wound up playing Elden Ring
 - Fish
-- Shoot
+- Go clay disc shooting
 - Fall off bikes
 
 ### The Statistics
