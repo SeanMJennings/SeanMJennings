@@ -4,7 +4,7 @@ I'm Sean 👋
 
 I've been developing software in one way or another since 2014 and have been professionally developing software since March 2020 - what a month to start!!
 
-So far, I've worked across the Pharmaceutical, Insurance, Geospatial and  Security industries for both private and public sector stakeholders.
+So far, I've worked across the insurance, health, geospatial and security industries for both private and public sector stakeholders.
 
 ### The Technical Stuff
 
